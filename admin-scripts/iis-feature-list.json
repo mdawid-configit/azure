@@ -1,0 +1,37 @@
+{
+    "IISFeatures":
+    [
+        "IIS-WebServerRole",
+        "IIS-WebServer",
+        "IIS-CommonHttpFeatures",
+        "IIS-Security",
+        "IIS-RequestFiltering",
+        "IIS-StaticContent",
+        "IIS-DefaultDocument",
+        "IIS-DirectoryBrowsing",
+        "IIS-HttpErrors",
+        "IIS-HttpRedirect",
+        "IIS-ApplicationDevelopment",
+        "IIS-ApplicationInit",
+        "IIS-NetFxExtensibility45",
+        "IIS-ISAPIExtensions",
+        "IIS-ISAPIFilter",
+        "IIS-ASPNET45",
+        "IIS-HealthAndDiagnostics",
+        "IIS-HttpLogging",
+        "IIS-LoggingLibraries",
+        "IIS-CustomLogging",
+        "IIS-BasicAuthentication",
+        "IIS-WindowsAuthentication",
+        "IIS-ClientCertificateMappingAuthentication",
+        "IIS-IISCertificateMappingAuthentication",
+        "IIS-URLAuthorization",
+        "IIS-Performance",
+        "IIS-HttpCompressionStatic",
+        "IIS-HttpCompressionDynamic",
+        "IIS-WebServerManagementTools",
+        "IIS-ManagementConsole",
+        "IIS-ManagementScriptingTools",
+        "IIS-ManagementService"
+    ]
+}
