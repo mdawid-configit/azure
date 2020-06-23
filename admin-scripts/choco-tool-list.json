@@ -1,0 +1,39 @@
+{
+    "AppList": [
+        {
+            "choconame": "7zip",
+            "friendlyname": "7 Zip archiver",
+            "description": ""
+        },
+        {
+            "choconame": "Firefox",
+            "friendlyname": "Firefox Broser",
+            "description": ""
+        },
+        {
+            "choconame": "GoogleChrome",
+            "friendlyname": "Google Chrome browser",
+            "description": ""
+        },
+        {
+            "choconame": "notepad++",
+            "friendlyname": "Notepad++ Editor",
+            "description": ""
+        },
+        {
+            "choconame": "freecommander-xe.install",
+            "friendlyname": "Free Commander",
+            "description": ""
+        },
+        {
+            "choconame": "linqpad5",
+            "friendlyname": "LINQPad v5",
+            "description": ""
+        },
+        {
+            "choconame": "postman",
+            "friendlyname": "Postman",
+            "description": ""
+        }
+    ]
+}
